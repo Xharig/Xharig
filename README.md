@@ -17,7 +17,7 @@ Solche, die man herunterlädt und startet — kein Bausatz, keine Installation, 
 
 ---
 
-## SC BP Watcher
+## VerseKit
 
 [![Version](https://img.shields.io/github/v/release/Xharig/SC-BP-Watcher?include_prereleases&label=Version&color=5fa522)](https://github.com/Xharig/SC-BP-Watcher/releases/latest)
 [![Heruntergeladen](https://img.shields.io/github/downloads/Xharig/SC-BP-Watcher/total?label=Heruntergeladen&color=5fa522)](https://github.com/Xharig/SC-BP-Watcher/releases)
