@@ -20,7 +20,7 @@ Solche, die man herunterlädt und startet — kein Bausatz, keine Installation, 
 ## VerseKit
 
 [![Version](https://img.shields.io/github/v/release/Xharig/VerseKit?include_prereleases&label=Version&color=5fa522)](https://github.com/Xharig/VerseKit/releases/latest)
-[![Heruntergeladen](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FXharig%2FXharig%2Fmain%2Fdownloads.json)](https://github.com/Xharig/VerseKit/releases)
+[![Heruntergeladen](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FXharig%2FVerseKit%2Fzaehler%2Fdownloads.json&label=Heruntergeladen)](https://github.com/Xharig/VerseKit/releases)
 
 Ein Overlay für **Windows und Linux**, das dir sagt, welche Baupläne du hast, welche
 dir fehlen und welcher Auftrag sie ausschüttet.
