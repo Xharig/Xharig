@@ -62,7 +62,7 @@ mir. Daraus sind ein paar feste Regeln geworden:
 | | |
 |---|---|
 | 💬 | [Discord](https://xharig.com/discord) — Fragen, Fehler, Vorschläge |
-| ✉️ | Info@Xharig.de |
+| ✉️ | [support@xharig.com](mailto:support@xharig.com) |
 | ☕ | [Ko-fi](https://ko-fi.com/xharig) — falls dir etwas davon Zeit gespart hat |
 
 ---
