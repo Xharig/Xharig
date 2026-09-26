@@ -10,7 +10,7 @@ Solche, die man herunterlädt und startet — kein Bausatz, keine Installation, 
 [![Star Citizen](https://img.shields.io/badge/Star%20Citizen-Werkzeuge-5fa522)](https://github.com/Xharig/VerseKit)
 [![Sprachen](https://img.shields.io/badge/Deutsch-%C2%B7%20English-5fa522)](https://github.com/Xharig/VerseKit)
 [![Lizenz](https://img.shields.io/badge/Lizenz-GPL--3.0-5fa522)](https://www.gnu.org/licenses/gpl-3.0)
-[![Discord](https://img.shields.io/badge/Discord-beitreten-5fa522?logo=discord&logoColor=white)](https://discord.gg/g2E7e6XxZC)
+[![Discord](https://img.shields.io/badge/Discord-beitreten-5fa522?logo=discord&logoColor=white)](https://xharig.com/discord)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Kaffee%20spendieren-5fa522?logo=kofi&logoColor=white)](https://ko-fi.com/xharig)
 
 </div>
@@ -32,7 +32,7 @@ dir fehlen und welcher Auftrag sie ausschüttet.
 | 🏭 | **Rohstofflager, Herstellung, Bergbau, Handel** — was du hast, was ein Bauteil kostet, wo es sich lohnt |
 | 🌍 | **Deutsch und Englisch**, vollständig umschaltbar |
 
-➡️ **[Zum Werkzeug](https://github.com/Xharig/VerseKit)** · [Neueste Version herunterladen](https://github.com/Xharig/VerseKit/releases/latest)
+➡️ **[Zum Werkzeug](https://github.com/Xharig/VerseKit)** · [Webseite](https://versekit.xharig.com/) · [Neueste Version herunterladen](https://xharig.com/download)
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Xharig/VerseKit/main/assets/screenshot-liste.png" alt="Bauplan-Liste" width="720">
@@ -61,7 +61,7 @@ mir. Daraus sind ein paar feste Regeln geworden:
 
 | | |
 |---|---|
-| 💬 | [Discord](https://discord.gg/g2E7e6XxZC) — Fragen, Fehler, Vorschläge |
+| 💬 | [Discord](https://xharig.com/discord) — Fragen, Fehler, Vorschläge |
 | ✉️ | Info@Xharig.de |
 | ☕ | [Ko-fi](https://ko-fi.com/xharig) — falls dir etwas davon Zeit gespart hat |
 
